@@ -3,8 +3,6 @@
 A modern AI-powered career coach platform built with **Next.js**, **NeonDB**, **Tailwind CSS**, **Prisma**, **Inngest**, **Shadcn UI**, and **Google Gemini AI**.  
 Accelerate your career with AI-generated resumes, interview prep, industry insights, and more.
 
-![CareerSphere](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
-
 ---
 
 ## ✨ Features
