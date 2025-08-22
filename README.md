@@ -88,4 +88,5 @@ Accelerate your career with AI-generated resumes, interview prep, industry insig
 
 ## 📝 License
 
-MIT
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
