@@ -88,11 +88,6 @@ Accelerate your career with AI-generated resumes, interview prep, industry insig
 
 ---
 
-## 📢 Credits
+## 📝 License
 
-Made with 💗 by [RoadsideCoder](https://github.com/RoadsideCoder)  
-Inspired by the [YouTube tutorial](https://youtu.be/UbXpRv5ApKA).
-
----
-
-## 📝
+MIT
